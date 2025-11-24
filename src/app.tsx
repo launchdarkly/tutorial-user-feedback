@@ -43,13 +43,7 @@ const App: React.FC = () => {
         <h1>LaunchDarkly User Feedback</h1>
         <h2>Tutorial App</h2>
         <p>
-          - give the link to tutorial from there
-          - explain the steps to get to this
-          - explain how to use this tutorial
-            - configure the LDClient (.env)
-          - explain how to use this for internal testing & first testing for QF
-            - send evaluations
-            - send feedback
+          To get startedm, follow the instructions in README.md!
         </p>
       </div>
       <br />
