@@ -43,7 +43,7 @@ const App: React.FC = () => {
         <h1>LaunchDarkly User Feedback</h1>
         <h2>Tutorial App</h2>
         <p>
-          To get startedm, follow the instructions in README.md!
+          To get started, follow the instructions in README.md!
         </p>
       </div>
       <br />
